@@ -1,0 +1,160 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>This was the word of the Lord which Iohn Camm, and Francis Howgill was moved to declare and write to Oliver Cromwell, who is named Lord-Protector: shewing the cause why they came to speak to him: and shewing that they came not to petition him for any thing, but for the welfare of Sion, and for the righteous seeds sake; and that those laws which were given forth by the will of man, may be taken away; that the law may go forth of Sion, and the word of the Lord from Jerusalem; and so the kingdoms of the world may become the kingdom of Christ.</title>
+            <author>Camm, John, 1604?-1656.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1654</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A79529</idno>
+            <idno type="STC">Wing C392</idno>
+            <idno type="STC">Thomason E732_22</idno>
+            <idno type="STC">ESTC R206888</idno>
+            <idno type="EEBO-CITATION">99865983</idno>
+            <idno type="PROQUEST">99865983</idno>
+            <idno type="VID">166883</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A79529)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 166883)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 113:E732[22])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>This was the word of the Lord which Iohn Camm, and Francis Howgill was moved to declare and write to Oliver Cromwell, who is named Lord-Protector: shewing the cause why they came to speak to him: and shewing that they came not to petition him for any thing, but for the welfare of Sion, and for the righteous seeds sake; and that those laws which were given forth by the will of man, may be taken away; that the law may go forth of Sion, and the word of the Lord from Jerusalem; and so the kingdoms of the world may become the kingdom of Christ.</title>
+                  <author>Camm, John, 1604?-1656.</author>
+                  <author>Howgill, Francis, 1618-1669.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>Printed, Anno Dom. 1654.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "April. 8. 1654".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Cromwell, Oliver, 1599-1658 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:166883:1" rendition="simple:additions"/>
+            <p>THIS Was the word of the Lord which Iohn Camm, AND Francis Howgill Was moved to declare and write TO OLIVER CROMWELL, Who is named <hi>Lord-Protector:</hi> Shewing the cauſe why they came to ſpeak to him: and ſhewing that they came not to petition him for any thing, but for the welfare of <hi>Sion,</hi> and for the righteous ſeeds ſake; and that thoſe Laws which were given forth by the will of man, may be taken away; that the Law may go forth of <hi>Sion,</hi> and the Word of the Lord from <hi>Jeruſalem;</hi> and ſo the Kingdoms of the world may become the Kingdom of Chriſt.</p>
+            <q>
+               <p>He that hath an ear, let him hear.</p>
+               <bibl>Rev. 3. 13.</bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed, <hi>Anno Dom.</hi> 1654.</p>
+         </div>
+      </front>
+      <body>
+         <div type="statements">
+            <div type="statement">
+               <pb facs="tcp:166883:2"/>
+               <pb facs="tcp:166883:2"/>
+               <p>
+                  <seg rend="decorInit">O</seg>F the laſt day of the firſt moneth, called <hi>March,</hi> about two of the clock in the morning, I was moved of the Lord to write theſe enſuing lines, and to lay before thee the cauſe of our coming hi<g ref="char:EOLhyphen"/>ther to <hi>London.</hi> Friend, we came not to thee, to petition any thing from thee in the outwad, but in the tender bowels of love to exhort thee to minde thy own con<g ref="char:EOLhyphen"/>dition, how thou ſtandeſt in relation to the Lord God of heaven and earth, who is Powerful, and Pure, and Holy, who will not acquit the wicked, but will wound the hairie ſcalp of him who goes on in iniquity, before whoſe preſence all ſtands naked and bare, who knows and ſees all the ſecrets of thy heart, thy outgoings and incomings, to whom thou muſt give ac<g ref="char:EOLhyphen"/>count of all things done in the body, whether they be good or evil; therefore in love to thy Soul were we moved to come to exhort thee to ſtand in the fear of the Lord, and in his Counſel: and to minde the light in thy conſcience, which is pure and of God, to guide thee in the great affairs of the Na<g ref="char:EOLhyphen"/>tions; for to keep in his fear is ſafe, for dreadful and terrible will the day of the Lord be to all who are found out of his fear, and acting in their own wills, and bounding and limiting the Spirit of the Lord, and walking contrary to the pure Law of God, the light in their conſciences: and we knowing the terrors of the Lord, were moved to exhort thee, in love to thy ſoul, for the righteous ſeeds ſake, which lyes in bondage every where, under the oppreſſing nature, that thou mightſt be an Inſtru<g ref="char:EOLhyphen"/>ment in the Lords hand, to take off oppreſſion from off the necks of the people, and to remove their Yoke which hath been pro<g ref="char:EOLhyphen"/>miſed long, and now the power is in thy hand; and thou muſt give an account to the Lord how thou haſt ruled for him, for the mighty day of the Lord is come, and is coming, wherein all fa<g ref="char:EOLhyphen"/>ces ſhall gather blackneſs, it is a day of darkneſs, of bitter la<g ref="char:EOLhyphen"/>mentation and woe, at whoſe preſence the mountains ſhall melt, and the hills ſhall tumble down before him, and all the tall Ce<g ref="char:EOLhyphen"/>dars
+<pb facs="tcp:166883:3"/>
+ſhall bow, and the ſtrong Okes ſhall be broken down, and the roofs rent, and the earth ſhall remove out of its place, its a day wherein the Lord will plead with all fleſh, with his ſword, and with fire: in which day the lofty ſhall be brought down, and the Lord alone exalted, which day we witneſs fulfilled in us in meaſure; praiſes, praiſes to the Lord God for evermore: and therefore Friend, we having this teſtimony made manifeſt in us by the eternal Spirit of God, We declare this unto thee, that thou mayeſt not be found acting againſt the truth; for they who are guided by the Spirit of God, will do nothing againſt the truth, but for the truth: by which Spirit we are gathered out of the world, up to God, and have eſcaped the pollutions of the world: and by it we are brought in obedience to the pure Law of God which is written in our hearts, and his Spirit with<g ref="char:EOLhyphen"/>in us is our teacher: and ſo we deny all the teachings of men, who have not this Law and Spirit to guide them; and for ſo doing we ſuffer by them who are not guided by that Spirit; for my ſheep know my voice, ſaith Chriſt, and they follow me, and will not follow a ſtranger; and we know the voice of Chriſt, and the voice of a ſtranger: and by the Spirit of the living God are we gathered up together, up to God, to worſhip him in ſpi<g ref="char:EOLhyphen"/>rit and in truth, and are of one heart, and of one minde, and of one ſoul, and have all one teacher, and ſpeak all one thing: And we being all taught of the Lord, are far from oppreſſion, though we be oppreſſed; and for the truth ſake was I moved of the Lord to lay this before thee, that our Conditions may be known, that the truth may not ſuffer under the reproach of the heathen, who live after the fleſh, and perſecute them who live after the Spirit.</p>
+               <p>A word more to clear thy miſtake: when we ſpoke unto thee that the Lord would make thee an Inſtrument in his hand to eſta<g ref="char:EOLhyphen"/>bliſh the Goſpel; wherein thou apprehendedſt us that ſhould be eſtabliſhed by an outward Law, that was not our deſire, nor we ſpoke no ſuch thing: but we witneſs the coming of Chriſt in his Kingdom, is not by might, nor power, nor pomp, nor glo<g ref="char:EOLhyphen"/>ry from without: nor by any Law which is in the will of man; but our deſires were, that there ſhould be no Law upon Religion,
+<pb facs="tcp:166883:3"/>
+for it need no Law to defend it, for pure religion, and undefiled is this, to looſe the bands of wickedneſs, and ſet the oppreſſed free, and take off every yoke: and where pure Religion is ex<g ref="char:EOLhyphen"/>erciſed, this is the fruits; and if thou be guided by the pure light of God ſhining in thy conſcience, and the righteous Law ſet up in thy heart, and the Spirit of God thy teacher, then there need none to deſire thee to take away thoſe Laws that enſnare ten<g ref="char:EOLhyphen"/>der conſciences; and ſo they who pretend conſcience and are not guided by the pure Law of God, will be ſeen by thoſe who dwell in the Spirit, to have erronious conſciences, and ſo this Law will take hold of them, and the righteous Law is upon the tranſgreſſor, and limits the carnal minde and fleſhly will, but doth not limit the Spirit, but is at unity with it: and therefore friend, to thy conſcience I ſpeak, and witneſs this to be true in the preſence of God: that as thou art guided by this pure light in thy conſcience, and this Law of the Spirit ſet up in thy heart, thou canſt not deny us; for we are none of thoſe which deſpiſe Government and defile the fleſh; who pull down others to ſet up themſelves; but all unfruitful works of darkneſs we deny, and ſeek to advance the Government of Jeſus Chriſt alone; and love all, and have unity with all who are here, and honor all men in the Lord, and have fellowſhip with thoſe whoſe converſa<g ref="char:EOLhyphen"/>tion is as becomes the Goſpel of Chriſt: and they who rule and live here, cannot ſuffer any outward Law to take hold on us, who ſtand in obedience to the commands of Chriſt: for there is no condemnation to them who are in Chriſt Jeſus, who walk not after the fleſh but after the ſpirit; and where the Spirit of the Lord ſets free and commands obedience, take heed how thou ſuffer any Law to limit that Spirit, for they who are brought into the obedience of the Spirit, are dear unto him as the apple of his eye, and his care is over them: and the Lord will free them from their oppreſſors: and thus were we preſſed in Spirit to lay before thee our conditions, and the conditions of our brethren: who are gathered into the eter<g ref="char:EOLhyphen"/>nal unity, where there is no rent nor ſchiſm: that thou might not be ignorant of thoſe things, and to ſhew thee that our deſire is not for any outward thing or ſelf-advancing: for all ſelf we
+<pb facs="tcp:166883:4"/>
+deny; for we came contrary to our own will, and we declare this unto thee contrary to our own will: and if thou ſtand not in thy own will, thou wilt hear us, and own us, in advancing the Lord Jeſus Chriſt upon the holy-Hill of <hi>Sion,</hi> that the Law might go out of <hi>Sion,</hi> and the word of the Lord from <hi>Hieruſa<g ref="char:EOLhyphen"/>lem;</hi> and this we wait to ſee accompliſhed, and his promiſe fulfilled in thoſe who govern the Nations, that the Kingdoms of the world may become the Kingdom of the Lord Jeſus Chriſt. And thus we have laid our ſelves naked before thee, in the pre<g ref="char:EOLhyphen"/>ſence of God, and cleared our conſciences to thee: and leave it to that which is pure in thy conſcience to judge: Take heed, for he that is in high place, is ſubject to many tentations.</p>
+               <closer>
+                  <signed>This was I moved of the Lord to write unto thee, who is a ſervant of the Lord, and a lover of thy Soul, called
+John Camm.</signed>
+               </closer>
+            </div>
+            <div type="statement">
+               <pb facs="tcp:166883:4"/>
+               <head>The word of the Lord came to me the 31. day of the firſt moneth, about the ninth hour, as I was waiting upon the Lord, and waiting in <hi>Jamſes</hi> Park at <hi>London.</hi>
+               </head>
+               <p>FRiend, I was moved of the Lord to come to thee to de<g ref="char:EOLhyphen"/>clare the Word of the Lord, as I was moved of the Lord, and deal plainly with thee as I was commanded, and not to pe<g ref="char:EOLhyphen"/>tition thee for any thing, but to declare what the Lord had re<g ref="char:EOLhyphen"/>vealed to me, concerning thee; and when I had delivered what I was commanded, thou queſtionedſt it, whether it was the word of the Lord or not, and ſoughteſt by thy reaſon to put it off; and we have waited ſome dayes ſince, but cannot ſpeak to thee, therefore I was moved to write to thee, and clear my con<g ref="char:EOLhyphen"/>ſcience, and to leave thee; Therefore hear the word of the Lord: thus ſaith the Lord, I choſe thee out of all the Nation, when thou waſt little in thy own eyes, and threweſt down the mountains and the powers of the earth before thee, which had eſtabliſhed wickedneſs by a Law: and I cut them down, and broke the yokes and bonds of the oppreſſor, and made them ſtoop before thee: and I made them as a Plain before thee, that thou paſſedſt over them, and trode upon their necks: but thus ſaith the Lord, now thy heart is not upright before me, but thou takeſt counſel, and not at me; and thou art eſtabliſhing peace, and not by me; and thou art ſetting up Laws, and not by me; and my Name is not feared, nor I am not ſought after: but thy own wiſdom thou eſtabliſheſt: what ſaith the Lord, have I thrown down all the oppreſſors, and broken their Laws, and art thou now going about to eſtabliſh them again? and art going to build again, that which I have deſtroyed? wherefore thus ſaith the Lord, wilt thou limit me, and ſet bounds to me, when, and where, and how, and by whom I ſhall declare my ſelf, and publiſh
+<pb facs="tcp:166883:5"/>
+my name? then will I break thy Cord, and remove thy Stake, and exalt my ſelf in thy overthrow; therefore this is the word of the Lord to thee, whether thou wilt hear or forbear; if thou take not away all thoſe laws which are made concerning Re<g ref="char:EOLhyphen"/>ligion, whereby the people which are dear in mine eyes, are op<g ref="char:EOLhyphen"/>preſſed, thou ſhalt not be eſtabliſhed: but as thou haſt troden down mine enemies by my power, ſo ſhalt thou be trodden down by my power, and thou ſhalt know that I am the Lord; for my Goſpel ſhall not be eſtabliſhed by thy ſword, nor by thy law; but by my might and by my power, and by my Spirit: unto thee, this is the word of the Lord, Stint not the eternal Spirit, by which I will publiſh my name, when, and where, and how I will; for if thou do, thou ſhalt be as duſt before the winde; the mouth of the Lord hath ſpoken it, and he will perform his Promiſe: for this is that I look for at thy hands, ſaith the Lord, that thou ſhouldſt undo the heavy burdens, and let the op<g ref="char:EOLhyphen"/>preſſed go free: are not many ſhut up in priſon, and ſome ſtaked, ſome ſtoned, ſome ſhamefully intreated? and ſome are judged blaſphemers by thoſe who know not the Lord, and by thoſe laws which have been made by the will of man, and ſtand not in the will of God: and ſome ſuffer now, becauſe they can<g ref="char:EOLhyphen"/>not hold up the types, and ſo deny Chriſt come in the fleſh; and ſome have been ſhut up in priſon, becauſe they could not ſwear, and becauſe they abide in the Doctrine of Chriſt; and ſome for declaring againſt ſin openly in Markets, have ſuffered as evil doers; and now if thou let them ſuffer in this nature by thoſe laws, and count it juſt; I will viſit for thoſe things, ſaith the Lord, and I will break the yoke from off their necks, and I will bring deliverance another way, and thou ſhalt know that I am the Lord.</p>
+               <closer>
+                  <signed>Moved of the Lord to declare and write this, by a Servant of the truth for Jeſus ſake, and a lover of thy Soul, called
+Francis Howgill.</signed>
+               </closer>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
